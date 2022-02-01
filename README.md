@@ -1,1 +1,3 @@
-# Speech-Emotion-Recognition-SER-
+# Sentiment Analysis
+
+Sentiment Analysis using NLP.
